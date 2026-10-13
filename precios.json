@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-04",
-  "source": "Asosubastas · promedio de las principales subastas (semana 36)",
-  "url": "https://www.agronegocios.co/mercados/asi-se-comporto-el-precio-del-ganado-esta-semana-en-las-principales-subastas-del-pais-4474835",
+  "date": "2026-09-24",
+  "source": "Asosubastas · promedio de las principales subastas (semana 39). Hembra de vientre se conserva de la semana 36: el reporte la da en $5.774 (-32 %), fuera del límite de variación de 25 %",
+  "url": "https://www.agronegocios.co/mercados/asi-se-comporto-el-precio-del-ganado-esta-semana-en-las-principales-subastas-del-pais-4489412",
   "prices": {
-    "hembraLevante": 8931,
-    "machoLevante": 9684,
+    "hembraLevante": 6910,
+    "machoLevante": 7621,
     "hembraVientre": 8510,
-    "machoCeba": 9035
+    "machoCeba": 7002
   },
-  "checkedAt": "2026-10-12"
+  "checkedAt": "2026-10-13"
 }
