@@ -1,14 +1,16 @@
 {
-  "date": "2026-09-24",
-  "source": "Asosubastas · promedio de las principales subastas (semana 39)",
-  "url": "https://www.agronegocios.co/mercados/asi-se-comporto-el-precio-del-ganado-esta-semana-en-las-principales-subastas-del-pais-4489412",
+  "rev": 2,
+  "date": "2026-09-04",
+  "source": "Asosubastas · promedio de las principales subastas (semana 36). Las semanas 37-39 se excluyeron: las cifras publicadas no se pudieron verificar y se contradicen entre sí.",
+  "url": "https://www.agronegocios.co/mercados/asi-se-comporto-el-precio-del-ganado-esta-semana-en-las-principales-subastas-del-pais-4474835",
   "prices": {
-    "hembraLevante": 6910,
-    "machoLevante": 7621,
-    "hembraVientre": 5774,
-    "machoCeba": 7002
+    "hembraLevante": 8931,
+    "machoLevante": 9684,
+    "hembraVientre": 8510,
+    "machoCeba": 9035
   },
-  "checkedAt": "2026-10-13",
+  "checkedAt": "2026-10-15",
+  "exclude": ["2026-09-17", "2026-09-24"],
   "history": [
     {
       "date": "2026-08-28",
@@ -21,18 +23,6 @@
       "week": 36,
       "source": "Asosubastas · semana 36",
       "prices": { "hembraLevante": 8931, "machoLevante": 9684, "hembraVientre": 8510, "machoCeba": 9035 }
-    },
-    {
-      "date": "2026-09-17",
-      "week": 38,
-      "source": "Asosubastas · semana 38 (fecha aproximada)",
-      "prices": { "hembraLevante": 8151, "machoLevante": 9253, "hembraVientre": 7891, "machoCeba": 9022 }
-    },
-    {
-      "date": "2026-09-24",
-      "week": 39,
-      "source": "Asosubastas · semana 39",
-      "prices": { "hembraLevante": 6910, "machoLevante": 7621, "hembraVientre": 5774, "machoCeba": 7002 }
     }
   ]
 }
